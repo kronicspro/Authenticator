@@ -37,7 +37,7 @@
     "ts-loader": "^5.3.3",
     "typescript": "^2.9.2",
     "vue-loader": "^15.7.0",
-    "vue-template-compiler": "^2.6.10",
+    "vue-template-compiler": "^2.6.12",
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.0",
     "webpack-merge": "^4.2.1"
@@ -47,7 +47,7 @@
     "jssha": "^2.3.1",
     "qrcode-generator": "^1.4.3",
     "qrcode-reader": "^1.0.4",
-    "vue": "^2.6.10",
+    "vue": "^2.6.12",
     "vue2-dragula": "^2.5.4"
   }
 }
